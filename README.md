@@ -5,7 +5,7 @@
 
     **1.** Develop a detailed _[customer performance report](https://github.com/RukmalRt/Excel-Salas-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Perform an in-depth comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Perform an in-depth comparison between _[market performance and sales targets](https://github.com/RukmalRt/Excel-Salas-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** The primary purpose of sales analytics is to empower businesses to monitor and evaluate their sales activities and performance effectively.
 
@@ -18,9 +18,9 @@
 
 - **Project objective:** 
 
-    **1.** To generate Profit and Loss (P&L) reports categorized by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** To generate Profit and Loss (P&L) reports categorized by _[Fiscal Year](https://github.com/RukmalRt/Excel-Salas-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/RukmalRt/Excel-Salas-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** To generate Profit and Loss (P&L) reports segmented by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** To generate Profit and Loss (P&L) reports segmented by _[Markets](https://github.com/RukmalRt/Excel-Salas-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:** The purpose of sales analytics is to evaluate financial performance, support decision-making processes, and facilitate effective communication with stakeholders.
 
